@@ -1,6 +1,6 @@
 {
   "compilerOptions": {
-    "target": "es5",
+    "target": "es2015",
     "module": "amd",
     "declaration": true,
     "outFile": "lib/index.js",
@@ -10,7 +10,8 @@
     "noUnusedParameters": true,
     "noImplicitAny": false,
     "esModuleInterop": true,
-    "typeRoots": ["node_modules/@types"]
+    "typeRoots": ["node_modules/@types"],
+    "moduleResolution": "node"
   },
   "include": ["src/**/*"]
 }
