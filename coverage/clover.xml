@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1565168844538" clover="3.2.0">
+  <project timestamp="1565168844538" name="All files">
+    <metrics statements="48" coveredstatements="48" conditionals="28" coveredconditionals="27" methods="14" coveredmethods="14" elements="90" coveredelements="89" complexity="0" loc="48" ncloc="48" packages="1" files="1" classes="1"/>
+    <file name="sendthe.ts" path="/home/mahdi/Documents/Projects/sendthe/src/sendthe.ts">
+      <metrics statements="48" coveredstatements="48" conditionals="28" coveredconditionals="27" methods="14" coveredmethods="14"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="4" count="10" type="stmt"/>
+      <line num="6" count="1" type="cond" truecount="1" falsecount="0"/>
+      <line num="7" count="15" type="stmt"/>
+      <line num="9" count="15" type="stmt"/>
+      <line num="10" count="15" type="stmt"/>
+      <line num="11" count="15" type="stmt"/>
+      <line num="12" count="36" type="cond" truecount="2" falsecount="0"/>
+      <line num="13" count="36" type="cond" truecount="2" falsecount="0"/>
+      <line num="16" count="10" type="stmt"/>
+      <line num="19" count="26" type="stmt"/>
+      <line num="22" count="10" type="stmt"/>
+      <line num="23" count="10" type="cond" truecount="2" falsecount="0"/>
+      <line num="24" count="2" type="stmt"/>
+      <line num="27" count="8" type="stmt"/>
+      <line num="30" count="15" type="stmt"/>
+      <line num="31" count="18" type="stmt"/>
+      <line num="32" count="18" type="cond" truecount="2" falsecount="0"/>
+      <line num="33" count="1" type="stmt"/>
+      <line num="34" count="17" type="cond" truecount="2" falsecount="0"/>
+      <line num="35" count="13" type="stmt"/>
+      <line num="38" count="4" type="stmt"/>
+      <line num="39" count="4" type="stmt"/>
+      <line num="40" count="4" type="stmt"/>
+      <line num="43" count="4" type="stmt"/>
+      <line num="44" count="4" type="stmt"/>
+      <line num="47" count="15" type="stmt"/>
+      <line num="48" count="18" type="stmt"/>
+      <line num="49" count="18" type="cond" truecount="2" falsecount="0"/>
+      <line num="50" count="1" type="stmt"/>
+      <line num="51" count="17" type="cond" truecount="2" falsecount="0"/>
+      <line num="52" count="13" type="stmt"/>
+      <line num="55" count="4" type="stmt"/>
+      <line num="56" count="4" type="cond" truecount="1" falsecount="1"/>
+      <line num="57" count="4" type="stmt"/>
+      <line num="60" count="4" type="stmt"/>
+      <line num="63" count="15" type="stmt"/>
+      <line num="64" count="17" type="cond" truecount="2" falsecount="0"/>
+      <line num="65" count="17" type="stmt"/>
+      <line num="66" count="19" type="stmt"/>
+      <line num="69" count="17" type="cond" truecount="2" falsecount="0"/>
+      <line num="70" count="1" type="stmt"/>
+      <line num="73" count="16" type="stmt"/>
+      <line num="74" count="18" type="stmt"/>
+      <line num="78" count="15" type="stmt"/>
+      <line num="79" count="18" type="stmt"/>
+      <line num="87" count="15" type="stmt"/>
+      <line num="89" count="15" type="stmt"/>
+    </file>
+  </project>
+</coverage>
